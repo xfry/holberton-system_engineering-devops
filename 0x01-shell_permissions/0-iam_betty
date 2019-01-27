@@ -1,2 +1,2 @@
 #!/bin/bash
-usermod -u 3000 betty
+"echo '\''su betty'\''"
