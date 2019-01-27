@@ -1,2 +1,3 @@
 #!/bin/bash
-"echo '\''su betty'\''"
+echo 'su betty'
+
