@@ -1,2 +1,2 @@
-#!/bin/bash/
+#!/bin/bash
 chmod -7,-7,+7 hello
