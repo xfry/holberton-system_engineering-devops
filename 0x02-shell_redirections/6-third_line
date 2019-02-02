@@ -1,2 +1,2 @@
 #!/bin/bash
-head -3 iacta | tail -1
+grep -m 3 [a-Z] profile_picture_black_list.txt | tail -
