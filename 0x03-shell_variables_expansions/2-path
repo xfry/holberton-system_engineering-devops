@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH/action
+source $PATH/action
